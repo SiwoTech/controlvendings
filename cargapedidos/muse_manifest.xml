@@ -1,0 +1,67 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cleanworkorange.com" resolutions="1x" timestamp="1582222405409">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_intranet.css" crc="3919822464" ref="hoja"/>
+    <file name="nomq_preview_master_intranet.css" crc="258434362" ref="hoja"/>
+    <file name="master_inicio.css" crc="16780581" ref="index"/>
+    <file name="nomq_preview_master_inicio.css" crc="169946476" ref="index"/>
+    <file name="index.css" crc="4131306367" ref="index"/>
+    <file name="nomq_index.css" crc="402414854" ref="index"/>
+    <file name="hoja.css" crc="4121295208" ref="hoja"/>
+    <file name="nomq_hoja.css" crc="4168608905" ref="hoja"/>
+    <file name="iefonts_hoja.css" crc="3824530138" ref="hoja"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hoja"/>
+    <file name="museutils.js" crc="340535759" ref="index:hoja"/>
+    <file name="whatinput.js" crc="86476730" ref="index:hoja"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:hoja"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:hoja"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:hoja"/>
+    <file name="webpro.js" crc="4059564322" ref="index:hoja"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u112546.php" crc="377745538" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:hoja"/>
+    <file name="require.js" crc="7928878" ref="index:hoja"/>
+    <file name="form-u133218.php" crc="4149818440" ref="hoja"/>
+    <file name="form-u133300.php" crc="4276323875" ref="hoja"/>
+    <file name="form-u138035.php" crc="3786666666" ref="hoja"/>
+    <file name="form-u138116.php" crc="3944830174" ref="hoja"/>
+    <file name="form-u131942.php" crc="97512039" ref="hoja"/>
+    <file name="form-u132024.php" crc="505565028" ref="hoja"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="25332213" ref="index"/>
+    <file name="baner800.jpg" crc="521745148" ref="index:hoja">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-330792x129.svg" crc="255503178" seo="true" ref="index:hoja">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoja" alt=""/>
+      <caption webpage="hoja" alt=""/>
+      <caption webpage="hoja" alt=""/>
+    </file>
+    <file name="pasted svg 330792x129_poster_.png" crc="3851218457" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:hoja"/>
+    <file name="tabla de precios.png" crc="3923819934" ref="hoja">
+      <caption webpage="hoja" alt=""/>
+    </file>
+    <file name="search.svg" crc="475750505" ref="hoja"/>
+    <file name="search_poster_u139192.png" crc="272614167" ref="hoja"/>
+    <file name="tabla de precios-u138034-fr.png" crc="4182678350" ref="hoja"/>
+    <file name="tabla de precios-u131941-fr.png" crc="4158543074" ref="hoja"/>
+  </folder>
+  <file name="index.html" crc="4291505901" seo="true" mt="1579905933654" redirect="true"/>
+  <file name="hoja.html" crc="4240296706" seo="true" mt="1582222247053" redirect="true"/>
+</manifest>
